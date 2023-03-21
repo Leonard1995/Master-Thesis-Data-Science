@@ -6,4 +6,4 @@ development tasks, will be solved within the assigned deadline given at the time
 
 To do so, after a deep statistical analysis of the dataaet with related visualizations, I trained and cross-validated several machine-learning algorithms (eg. XGBoost, RandomForest, Logistic Regression, SVM) and finally select the best performing, which resulted in a recall score of 0.923 (92%). 
 
-In file defense_presentation.pdf you might find the presentation of my Master Thesis defense while in file Master_thesis you might find my final elaborate with related code snippets. 
+In file presentazione_tesi_leonardo_pajer.pdf you might find the presentation of my Master Thesis defense while in file Master_thesis you might find my final elaborate with related code snippets. 
